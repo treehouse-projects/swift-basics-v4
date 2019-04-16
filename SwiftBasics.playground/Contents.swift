@@ -15,3 +15,24 @@ let language = "Swift"
  */
 let country = "United States of America"
 let state = "North Carolina"
+let city = "Charlotte"
+let street = "123 Some Street"
+let zip = "28202"
+
+let address = country + " " + state
+print(address)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
