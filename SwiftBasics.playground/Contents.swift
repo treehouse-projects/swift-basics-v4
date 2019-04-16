@@ -7,3 +7,11 @@
  to the named constant on the left
  */
 let language = "Swift"
+
+/*
+ String literals
+ 
+ - Text enclosed within a set of opening and closing double quotes
+ */
+let country = "United States of America"
+let state = "North Carolina"
