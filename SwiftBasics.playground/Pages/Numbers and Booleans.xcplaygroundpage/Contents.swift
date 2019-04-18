@@ -17,3 +17,17 @@ let version = 5.0
 // Boolean (Bool)
 // Used to model truth using true and false
 let isAwesome = true
+
+
+
+
+
+
+
+
+
+
+
+
+
+
