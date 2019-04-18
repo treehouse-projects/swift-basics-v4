@@ -22,6 +22,12 @@ let zip = "28202"
 let address = country + " " + state
 print(address)
 
+let output = street + ",\n" + city + ",\n" + state + ", " + zip + "\n" + country
+print(output)
+
+let phoneNumber = 12465489
+// Can only concatenate data of the same type
+// let contactInfo = phoneNumber + "\n"
 
 
 
