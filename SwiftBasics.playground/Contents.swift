@@ -24,14 +24,21 @@ print(address)
 
 let output = street + ",\n" + city + ",\n" + state + ", " + zip + "\n" + country
 print(output)
+print("----------")
 
 let phoneNumber = 12465489
 // Can only concatenate data of the same type
 // let contactInfo = phoneNumber + "\n"
 
+// String Interpolation
+let interpolatedAddress = "\(street),\n\(city),\n\(state), \(zip)\n\(country)"
+print(interpolatedAddress)
 
+"This is a \("string literal") inside another string literal"
 
-
+let name = "Pasan"
+let greeting = "Hi, my name is \(name) and I live in \(city). My number is \(phoneNumber)"
+print(greeting)
 
 
 
