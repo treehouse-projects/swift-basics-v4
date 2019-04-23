@@ -4,5 +4,6 @@
         <page name='Numbers and Booleans'/>
         <page name='Strings'/>
         <page name='Operators'/>
+        <page name='Variables'/>
     </pages>
 </playground>
