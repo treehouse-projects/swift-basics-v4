@@ -53,7 +53,9 @@ color != alternateColor
 1 > 2
 "a" > "b"
 
+// Operator Precedence
 
+let result = 13 % (2 + 7)
 
 
 

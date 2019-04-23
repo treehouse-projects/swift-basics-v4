@@ -40,7 +40,8 @@ let name = "Pasan"
 let greeting = "Hi, my name is \(name) and I live in \(city). My number is \(phoneNumber)"
 print(greeting)
 
-
+let result = "The product of \(6) times \(12) is \(6 * 12)"
+print(result)
 
 
 
